@@ -1,2 +1,2 @@
 # git-demo
-git-demo commands use
+git-demo commands use.
